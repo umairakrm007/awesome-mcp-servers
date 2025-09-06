@@ -1,0 +1,42 @@
+{
+  "name": "Weather MCP Server",
+  "description": "Get real-time weather data and forecasts through MCP protocol",
+  "url": "https://github.com/example/weather-mcp-server",
+  "category": "API",
+  "tags": ["weather", "api", "http", "forecast"],
+  "installation": [
+    {
+      "command": "npm install weather-mcp-server",
+      "package": "weather-mcp-server",
+      "type": "npm"
+    },
+    {
+      "command": "pip install weather-mcp-server",
+      "package": "weather-mcp-server", 
+      "type": "pip"
+    }
+  ],
+  "author": {
+    "name": "John Doe",
+    "github": "johndoe",
+    "email": "john@example.com"
+  },
+  "license": "MIT",
+  "documentation": "https://github.com/example/weather-mcp-server#readme",
+  "examples": [
+    "Get current weather: weather.getCurrentWeather('New York')",
+    "Get forecast: weather.getForecast('London', 5)"
+  ],
+  "requirements": {
+    "node": ">=18.0.0",
+    "other": "Weather API key required"
+  },
+  "features": [
+    "Real-time weather data",
+    "5-day forecasts",
+    "Multiple weather providers",
+    "Location-based queries"
+  ],
+  "status": "stable",
+  "last_updated": "2025-01-05"
+}
